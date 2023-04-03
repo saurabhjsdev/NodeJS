@@ -1,0 +1,1 @@
+console.log("Child console with argumnet getting from parent===>", process.argv)
